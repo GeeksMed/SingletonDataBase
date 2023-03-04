@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="660b0917-a5bf-44ab-a09b-a0491e51f384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/singleton/db/SingletonDataBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/singleton/db/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/singleton/db/SingletonDataBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/singleton/db/SingletonDataBaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,45 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.SingletonDataBaseTest.deveRetornarPort">
+    <configuration name="SingletonDataBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="singleton_db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="singleton.db" />
+      <option name="MAIN_CLASS_NAME" value="singleton.db.SingletonDataBaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonDataBaseTest.deveRetornarPort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="singleton_db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="singleton.db" />
+      <option name="MAIN_CLASS_NAME" value="singleton.db.SingletonDataBaseTest" />
+      <option name="METHOD_NAME" value="deveRetornarPort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SingletonDataBaseTest.deveRetornarPort" />
+        <item itemvalue="JUnit.SingletonDataBaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
